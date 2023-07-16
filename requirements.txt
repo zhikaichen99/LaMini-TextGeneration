@@ -1,0 +1,8 @@
+langchain==0.0.184
+streamlit==1.18.1
+altair==4.0
+tiktoken==0.4.0
+transformers
+einops
+accelerate 
+bitsandbytes
