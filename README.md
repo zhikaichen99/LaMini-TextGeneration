@@ -3,6 +3,8 @@ Deploying a HuggingFace LLM on Amazon SageMaker. Building a Streamlit applicatio
 
 This repo contains the source code for my article published on Medium. You can follow the article for a step-by-step procedure on how to deploy an LLM, use it in a Streamlit application, and deploy that application on an EC2 Instance.
 
+https://medium.com/@zhikaichen1999/deploying-a-hugging-face-language-model-on-amazon-sagemaker-8e28020a7ced
+
 ## Project Motivation
 The motivation for this project was to gain experience deploying LLMs in SageMaker and learning how to build working applications that can be deployed for anyone to use.
 
